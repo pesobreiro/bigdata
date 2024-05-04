@@ -1,5 +1,24 @@
 # Bigdata
 
+Para clonar o repositório fazer: 
+```
+git clone https://github.com/pesobreiro/bigdata.git
+
+```
+Software recomendado:
+* Visual Studio Code https://code.visualstudio.com/
+* git https://git-scm.com/
+* StarUML https://staruml.io/
+* Pandoc https://pandoc.org/
+
+## Comandos principais
+Atualizar um repositório local (descarrega do git par ao computador) : `git pull`
+
+Enviar alterações para o github:
+
+1. Adicionar um ficheiro `git add nomeFicheiro`  ou adicionar todos os ficheiros alterados `git add .`
+2. Colocar na zona de "preparação" do computador `git commit -m "nome ou descricao"`
+3. Colocar as alterações no git `git push` antes era `git push origin master`
 
 # Instalar spark
 
