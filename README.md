@@ -8,7 +8,6 @@ git clone https://github.com/pesobreiro/bigdata.git
 Software recomendado:
 * Visual Studio Code https://code.visualstudio.com/
 * git https://git-scm.com/
-* StarUML https://staruml.io/
 * Pandoc https://pandoc.org/
 
 ## Comandos principais
